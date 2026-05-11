@@ -1,0 +1,4 @@
+{
+  "simpletps.tps.response": "当前TPS: %s | MSPT: %sms",
+  "simpletps.ping.response": "你的延迟: %dms"
+}
