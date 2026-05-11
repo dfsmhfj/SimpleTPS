@@ -1,6 +1,10 @@
-This mod can display the current TPS, PING and MSPT values.
-use /tps to view the current TPS and MSPT.
-use /ping to view the current TPS.
-Additional Resources: 
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+# SimpleTPS
+
+This mod displays the server's real-time TPS, MSPT, and player ping (latency).
+
+- `/tps` – show the current TPS and MSPT.
+- `/ping` – show your current ping.
+
+## Additional Resources
+- [Community Documentation](https://docs.neoforged.net/)
+- [NeoForged Discord](https://discord.neoforged.net/)
