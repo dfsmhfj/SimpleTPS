@@ -1,0 +1,13 @@
+{
+  "itemGroup.simpletps": "Example Mod Tab",
+  "block.simpletps.example_block": "Example Block",
+  "item.simpletps.example_item": "Example Item",
+
+  "simpletps.configuration.title": "Simple TPS Configs",
+  "simpletps.configuration.section.simpletps.common.toml": "Simple TPS Configs",
+  "simpletps.configuration.section.simpletps.common.toml.title": "Simple TPS Configs",
+  "simpletps.configuration.items": "Item List",
+  "simpletps.configuration.logDirtBlock": "Log Dirt Block",
+  "simpletps.configuration.magicNumberIntroduction": "Magic Number Text",
+  "simpletps.configuration.magicNumber": "Magic Number"
+}
